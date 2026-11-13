@@ -8,7 +8,7 @@ Source: <https://nehsgnail.github.io/research/>
 
 A collection of his recent works.
 
-![Predicting short-term urban bike sharing demand in a coupled continuous and network space](<https://nehsgnail.github.io/_astro/2026-TBS-GeoTopoNet.d6UotPBF_lhP3r.webp>)
+![Figure 2A. GeoTopo-Net model architecture with continuous-space and network-space modeling blocks.](<https://nehsgnail.github.io/_astro/2026-TBS-GeoTopoNet.1oQ2fUs6_1ATIL.webp>)
 
 ### [Predicting short-term urban bike sharing demand in a coupled continuous and network space](<https://nehsgnail.github.io/research/2026-TBS-GeoTopoNet>)
 
